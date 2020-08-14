@@ -1,0 +1,233 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "proName": "Áo Thun Nam 5S Cổ Tròn Cao Cấp Trẻ Trung",
+      "category": "Ao",
+      "price": "70000",
+      "promotion": "60000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-images-abd5c.appspot.com/o/images%2Fshirt-co-tronTimThan.jpg?alt=media&token=612c2596-2ee8-4922-b331-b73c0484aad7",
+      "color": "Xanh than",
+      "made": "Viet Nam",
+      "description": "Thương hiệu thời trang cao cấp 5S Thiết kế: Cổ tròn, tay ngắn, ngực áo thêu logo nhỏ"
+    },
+    {
+      "id": "4",
+      "proName": "Áo Thun Nam 5S Cổ Tròn Cao Cấp Trẻ Trung",
+      "category": "Ao",
+      "price": "70000",
+      "promotion": "64999",
+      "image": "https://salt.tikicdn.com/cache/w390/ts/product/f1/ba/5f/854f94e7c8d2c8e26b77f3a3114b4aaa.jpg",
+      "color": "Xanh than",
+      "made": "Viet Nam",
+      "description": "Thương hiệu thời trang cao cấp 5S Thiết kế: Cổ tròn, tay ngắn, ngực áo thêu logo nhỏ"
+    },
+    {
+      "id": "5",
+      "proName": "Áo Thun Nam 5S Cổ Tròn Cao Cấp Trẻ Trung",
+      "category": "Ao",
+      "price": "70000",
+      "promotion": "65000",
+      "image": "https://salt.tikicdn.com/cache/w80/media/catalog/producttmp/1b/2d/31/4ef52dc888593fff77cfc5d15f3f8da3.jpg",
+      "color": "Xanh dương",
+      "made": "Viet Nam",
+      "description": "Thương hiệu thời trang cao cấp 5S Thiết kế: Cổ tròn, tay ngắn, ngực áo thêu logo nhỏ"
+    },
+    {
+      "id": "6",
+      "proName": "Áo Thun Nam 5S Cổ Tròn Cao Cấp Trẻ Trung",
+      "category": "Ao",
+      "price": "70000",
+      "promotion": "64999",
+      "image": "https://salt.tikicdn.com/cache/w390/ts/product/f1/ba/5f/854f94e7c8d2c8e26b77f3a3114b4aaa.jpg",
+      "color": "Xanh than",
+      "made": "Viet Nam",
+      "description": "Thương hiệu thời trang cao cấp 5S Thiết kế: Cổ tròn, tay ngắn, ngực áo thêu logo nhỏ"
+    },
+    {
+      "id": "7",
+      "proName": "Áo Thun Nam 5S Cổ Tròn Cao Cấp Trẻ Trung",
+      "category": "Ao",
+      "price": "70000",
+      "promotion": "64999",
+      "image": "https://salt.tikicdn.com/cache/w390/ts/product/f1/ba/5f/854f94e7c8d2c8e26b77f3a3114b4aaa.jpg",
+      "color": "Xanh than",
+      "made": "Viet Nam",
+      "description": "Thương hiệu thời trang cao cấp 5S Thiết kế: Cổ tròn, tay ngắn, ngực áo thêu logo nhỏ"
+    },
+    {
+      "id": "8",
+      "proName": "Áo Thun Nam Con Đường Z Màu Sơn Vảy",
+      "category": "Ao",
+      "price": "65000",
+      "promotion": "59999",
+      "image": "https://salt.tikicdn.com/cache/w390/ts/product/93/5c/f6/7d85e9d29d604c1eed61904418c16dc7.jpg",
+      "color": "Đen vảy sơn",
+      "made": "Viet Nam",
+      "description": "Chất liệu thun cao cấp Có độ co giãn, mang lại sự thoải mái cho người mặc"
+    },
+    {
+      "id": "9",
+      "proName": "Quần Jogger KaKi Unisex Trẻ Trung Năng Động,4 Màu Cá Tính",
+      "category": "Quan",
+      "price": "119000",
+      "promotion": "110000",
+      "image": "https://salt.tikicdn.com/cache/w390/ts/product/f7/52/08/58aa205912987f13b4f6dcdff844f198.jpg",
+      "color": "Đen",
+      "made": "Viet Nam",
+      "description": "Quần Dài UNISEX VICERO Kiểu Dáng JOGGER Trẻ Trung ,Hiện Đại Chất KaKi Cao Cấp"
+    },
+    {
+      "id": "0imams4d8",
+      "proName": "Áo mix sơn",
+      "category": "Ao",
+      "price": "70000",
+      "promotion": "65000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-images-abd5c.appspot.com/o/images%2Fshirt-vayson.jpg?alt=media&token=199153da-d5d2-443a-9a4d-4a80caea4582",
+      "color": "Den",
+      "made": "Viet Nam",
+      "description": "Men’s Premium T-Shirt\nThis premium T-shirt is as close to perfect as can be. It's optimized for all types of print and will quickly become your favorite T-shirt. Soft, comfortable and durable, this is a definite must-own.\n\n"
+    },
+    {
+      "id": "12",
+      "proName": "Quan Au",
+      "category": "Quan",
+      "price": "1500000",
+      "promotion": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-images-abd5c.appspot.com/o/images%2Fpants-purple.jfif?alt=media&token=66c08930-962d-4bb1-90e6-3a5d3944d368",
+      "color": "brown",
+      "made": "United State",
+      "description": "Chất Liệu: Vải vitex co giãn nhẹ, sịn sò, mềm mịn"
+    },
+    {
+      "id": "13",
+      "proName": "T Shirt BLue",
+      "category": "Ao",
+      "price": "150000",
+      "promotion": "130000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-images-abd5c.appspot.com/o/images%2Fshirt-blue.jfif?alt=media&token=b5eef91b-a5b2-4653-8639-28dbd032e577",
+      "color": "xanh",
+      "made": "United State",
+      "description": "Chỉ Cần MIX Cùng Quần Suông Ống Rộng sẽ giúp các nàng có 1 đôi chân siêu mẫu dài tít tắp"
+    },
+    {
+      "id": "14",
+      "proName": "Quan Au",
+      "category": "Quan",
+      "price": "22",
+      "promotion": "11",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-images-abd5c.appspot.com/o/images%2Fpants-red.jfif?alt=media&token=be8659aa-7dc3-41b6-ba66-f7731645ed11",
+      "color": "brown",
+      "made": "Another",
+      "description": "Detail information about produc"
+    },
+    {
+      "id": "wfplv4rj7",
+      "proName": "Tui LV",
+      "category": "Tui",
+      "price": "5000000",
+      "promotion": "4899999",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-images-abd5c.appspot.com/o/images%2FbagLV.jpg?alt=media&token=5e3ca952-8cae-47a8-9e94-d9f38950898f",
+      "color": "brown",
+      "made": "United State",
+      "description": "Detail information about product"
+    },
+    {
+      "id": "99yda9dep",
+      "proName": "Vong co",
+      "category": "Vong co",
+      "price": "1500000",
+      "promotion": "1430999",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-images-abd5c.appspot.com/o/images%2FvongCo.jpg?alt=media&token=7b2fa12d-6951-436a-9bcb-89c77a076cda",
+      "color": "White",
+      "made": "United State",
+      "description": "Detail information about product"
+    },
+    {
+      "id": "89ig48jcz",
+      "proName": "T Shirt BLue",
+      "category": "Ao",
+      "price": "22",
+      "promotion": "11",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-images-abd5c.appspot.com/o/images%2Fshirt-blue.jfif?alt=media&token=97530e47-852d-4ea6-a077-ae6ccab126b2",
+      "color": "xanh",
+      "made": "Viet Nam",
+      "description": "Detail information about product"
+    },
+    {
+      "id": "xevqqle9g",
+      "proName": "Nike 01",
+      "category": "Giay",
+      "price": "500000",
+      "promotion": "4599999",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-images-abd5c.appspot.com/o/images%2Fnike.jfif?alt=media&token=ac8d8300-120d-4125-860e-f475093f3c4b",
+      "color": "Black",
+      "made": "United State",
+      "description": "Building on the 360 innovation of the 6, the Nike Mercurial Superfly 7 Elite FG Boot adds a Nike Aerowtrac zone to the forefoot and a slightly stiffer chassis to help supercharge traction."
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "cateName": "Ao",
+      "image": "https://salt.tikicdn.com/cache/w390/ts/product/f1/ba/5f/854f94e7c8d2c8e26b77f3a3114b4aaa.jpg"
+    },
+    {
+      "id": "2",
+      "cateName": "Quan",
+      "image": "https://salt.tikicdn.com/cache/w390/ts/product/f7/52/08/58aa205912987f13b4f6dcdff844f198.jpg"
+    },
+    {
+      "id": "3",
+      "cateName": "Giay",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "4",
+      "cateName": "Tui",
+      "image": "https://www.vascara.com/uploads/cms_productmedia/2018/November/30/42752_1543565343.jpg"
+    },
+    {
+      "id": "qistceher",
+      "cateName": "Vong co",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-images-abd5c.appspot.com/o/images%2FvongCo.jpg?alt=media&token=38a76df1-9140-4397-bedf-c590a13d8718"
+    },
+    {
+      "id": "yefd116ts",
+      "cateName": "Ao",
+      "image": "https://firebasestorage.googleapis.com/v0/b/upload-images-abd5c.appspot.com/o/images%2Fshirt-vayson.jpg?alt=media&token=e0ccb867-ebdd-470f-b1eb-7fc6c985b85d"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Hoàng Tiến",
+      "username": "tienhc@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "2",
+      "name": "Phùng Á",
+      "username": "aphung123@gmail.com",
+      "password": "abc123"
+    }
+  ],
+  "news": [
+    {
+      "id": "1",
+      "title": "",
+      "content": "",
+      "image": "",
+      "category": ""
+    }
+  ],
+  "news-submitted": [
+    {
+      "id": "1",
+      "username": "",
+      "title": "",
+      "content": "",
+      "image": ""
+    }
+  ]
+}
